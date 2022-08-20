@@ -1,0 +1,14 @@
+[[servers]]
+id = 0
+listen = ":8000"
+http_listen = ":9000"
+
+[[servers]]
+id = 1
+listen = ":8001"
+http_listen = ":9001"
+
+[[servers]]
+id = 2
+listen = ":8002"
+http_listen = ":9002"
